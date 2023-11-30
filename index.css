@@ -1,0 +1,279 @@
+/* .phone{
+    color: black;
+    margin-left: 100px;
+    display: flex;
+    border: 2px solid blue;
+}
+.phone img{
+    height: 100px;
+    width: 100px;
+    margin-left: 350px;
+
+} */
+.phone {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 50px;
+
+}
+
+.form-control {
+    padding: 10px;
+}
+
+.btn {
+    padding: 10px;
+}
+
+.call {
+    size: 100px;
+}
+
+.custom_navbar {
+    background-color: #f5f5f5;
+    height: 70px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+
+ul {
+    float: center;
+    margin-right: 20px;
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    align-items: center;
+    font-style: bold;
+}
+
+li {
+    /* display: inline-block; */
+    line-height: 60px;
+    /* margin: 0 10px; */
+    text-decoration: none;
+    font-style: italic;
+    /* gap: 50px; */
+}
+
+.headingofslider {
+    display: flex;
+    justify-content: center;
+}
+
+.buttonofslider {
+    background-color: aqua;
+    border-radius: 100px;
+    border-style: none;
+    border: 50px;
+}
+
+.card-containor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin: 50px;
+
+}
+
+.sliderapk {
+    height: 100vh;
+    width: 100%;
+}
+
+.sliderheading {
+    color: black;
+    font-size: 70px;
+}
+
+.carousel-caption {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.text-between {
+    color: rgb(139, 207, 37);
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.bagimg {
+    background-image: url(home\ images_/home-04-1920x1230.jpg);
+    opacity: 10px;
+    padding-top: 100px;
+    padding-left: 40px;
+    padding-right: 40px;
+    flex-wrap: wrap;
+    row-gap: 20px;
+    /* border: 5px solid black; */
+    background-attachment: fixed;
+}
+.blog_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    opacity: 0.8;
+}
+.workshop {
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+}
+.workshophr{
+    color: black;
+}
+.fun {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.work {
+    border: 2px;
+    box-sizing: border-box;
+}
+
+.workshopbutton {
+    border-radius: 30px;
+    padding: 10px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center ;
+    margin: 20px;
+
+}
+
+.latest {
+    padding-top: 30px;
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+}
+
+.homecard2 {
+    padding: 30px;
+
+}
+.cardHeight{
+    height: 325px;
+    width: 490px;
+}
+.cardHeight .content{
+    color: white;
+}
+.card2img1 {
+    background-image: url("home\ images_/post-01-570x321.jpg");
+
+}
+
+.card2img2 {
+    background-image: url("home\ images_/post-02-570x321.jpg");
+    
+}
+
+.card2img3 {
+    background-image: url("home\ images_/post-03-570x321.jpg");
+    
+}
+
+.card2img4 {
+    background-image: url("home\ images_/post-04-570x321.jpg");
+
+}
+
+.latestpost {
+    padding: 10px;
+}
+
+.btnofcard1 {
+
+    padding: 4px 10px;
+    background-color: #8bbb6b;
+    border: none;
+    font-size: 20px;
+    color: white;
+
+}
+.btnofcard1:hover{
+    background-color: #77cc3f;
+}
+.card-img-top{
+    height: 300px;
+    width: 100px;
+}
+.content{
+    display: flex;
+align-items: first baseline ;
+color: black;
+opacity: none;
+}
+.homecard2 .content{
+    color: black;
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
